@@ -1,0 +1,5 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: This makes the directory a git repository. If you don't do that you cannot call other git commands in that directory.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+A: staging area is node between working directory and repository
