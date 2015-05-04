@@ -9,3 +9,7 @@ A: When you copy a repository from other repository which belongs to others to y
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: This could remind you whether your master is ahead of remote stored locally.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: By comparing old files and new files and decide what is the finally file looks like, and modify one of the file to be what you want it look like. Using Git or Github apparently make things easier.
+
